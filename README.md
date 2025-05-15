@@ -16,8 +16,7 @@ Add Bias: Append a column of ones to X to represent the intercept term.
 ### Step4
 Initialize: Set all weights (θ) to zero or small values.
 ### Step5
-Hypothesis: Compute predictions using
-![image](https://github.com/user-attachments/assets/8f5a9cf9-b79a-4d4c-922d-fa9b670075b4)
+![image](https://github.com/user-attachments/assets/5f19686e-5246-412d-a492-bc0dd3b03b8d)
 ### step6
 ![image](https://github.com/user-attachments/assets/84507861-c7fe-44dc-85a3-62ebac894605)
 ### step7
